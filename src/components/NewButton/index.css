@@ -1,0 +1,21 @@
+.button-container {
+  background-color: #dbeafe;
+  height: 35px;
+  width: 80px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.plus-icon {
+  height: 10px;
+  margin-right: 5px;
+  background-color: #dbeafe;
+}
+
+.new-button {
+  background-color: #dbeafe;
+  border: none;
+  font-family: Bree serif;
+}

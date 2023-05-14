@@ -1,0 +1,19 @@
+.logo {
+  height: 45px;
+  width: 60px;
+}
+
+.heading {
+  font-size: 30px;
+  font-family: Bree Serif;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.header-container {
+  background-color: #dbeafe;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: center;
+}
